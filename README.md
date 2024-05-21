@@ -7,17 +7,17 @@ Global Mart an international retail company offering a wide range of products ac
 The project focuses on utilizing a data-driven approach to provide GlobalMart with a comprehensive tool (Tableau Visualization) to monitor key performance indicators (KPIs), analyze sales and profit data, and generate actionable insights.
 # DASHBOARD REQUIREMENTS
 
-✓Sales and Profit Growth KPI: To monitor the company's overall financial
+✓**Sales and Profit Growth KPI:** To monitor the company's overall financial
 health and growth over time.
 
-✓Profit and Sales Trend: Purpose: To visualize trends in sales and profits over
+✓**Profit and Sales Trend:** Purpose: To visualize trends in sales and profits over
 specific periods, identifying patterns and seasonal fluctuations.
 
-✓Profit by Location (Country and Region): To analyze geographic
+✓**Profit by Location (Country and Region):** To analyze geographic
 performance, highlighting profitable regions, and identifying areas for
 improvement.
 
-✓Sales and Profits for Each Product Sub-Category: To evaluate the
+✓**Sales and Profits for Each Product Sub-Category:** To evaluate the
 performance of different product segments, helping to optimize inventory and
 marketing strategies.
 # Data Description
