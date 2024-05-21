@@ -68,3 +68,19 @@ marketing strategies.
 ✓ Discount- Discount given to customer.
 
 ✓ Profit- Profit/Loss incurred.
+
+# TECH STACK
+**TABLEAU** was used for Descriptive, Diagnostics and Predictive Analytics.
+
+# PROJECT SCOPE
+**1. Exploratory Data Analysis (EDA):** Collected, cleaned, and profiled GlobalMart’s sales and profit data to ensure accuracy and consistency while identifying preliminary trends and patterns to inform dashboard development.
+
+**2. Model Development with Tableau:** Defined KPIs and designed an intuitive layout, creating charts for sales growth, profit trends, product performance, and geographic analysis.
+
+**3. Tableau Dashboard Evaluation:** Validated visualization accuracy, added filters to optimize performance and ensure usability and effectiveness.
+
+# PROJECT CONTRIBUTOR
+IFECHUKWU AKAEZE
+(Data Scientist)
+
+
