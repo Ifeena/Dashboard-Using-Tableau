@@ -101,3 +101,6 @@ IFECHUKWU AKAEZE
 **✓**  **Increase focus on promoting high-margin products** and reassess the strategy for underperforming items like tables. Consider phasing out or rebranding low-performing products. 🛒
 
 **✓**  **Invest in marketing and sales efforts** in the Central region to boost performance. Leverage successful strategies from the West to replicate growth. 📍
+
+# CONCLUSION
+By optimizing inventory, refining marketing strategies, and addressing underperforming regions and products, Global Mart can ensure sustained profitability and customer satisfaction. can ensure sustained profitability and customer satisfaction.
